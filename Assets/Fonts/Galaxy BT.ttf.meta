@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 546dea6613ed3e84bb1e854f1bf4c08c
+timeCreated: 1510769682
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Galaxy BT
+  fontNames:
+  - Galaxy BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

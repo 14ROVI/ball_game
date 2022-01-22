@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7cfb9538c3302cb4b8592753f9007a04
+timeCreated: 1525611016
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Grand9K Pixel
+  fontNames:
+  - Grand9K Pixel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
